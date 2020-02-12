@@ -1,0 +1,52 @@
+*{
+font-family: 'Rubik', sans-serif;
+}
+
+body{
+  margin: 2em;
+  font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
+  text-align: center;
+  background-image: url("https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip3KntgfAbAo/v1/-999x-999.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+}
+button{
+  margin: 1em;
+  border-radius: .25em;
+  font-size: 75%;
+  padding: 1em;
+}
+footer{
+  padding: 2em;
+}
+
+#butcherPig{
+  width: 400px;
+  }
+#pigImage{
+  text-align: center;
+}
+#inputPhrase{
+  font-size: 1em;
+  height: 5em;
+  width: 20em;
+  text-align: center;
+}
+
+.box{
+  background-color: black;
+  color: #fff;
+  border-radius: 500px;
+  padding: 0.25em;
+  font-size: 150%;
+
+}
+.header{
+  background-color: #FFF;
+  padding: 1em;
+}
